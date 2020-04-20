@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoffeeFinder</string>
+    <string name="txtShop0">Addicted to The Bean</string>
+    <string name="txtAddress0">5901 Sun Blvd #113, St. Petersburg, FL 33715</string>
+    <string name="txtShop1">Southside Coffee Brew Bar</string>
+    <string name="txtAddress1">3922 6th St S, St. Petersburg, FL 33705</string>
+    <string name="txtShop2">Dunkin\'</string>
+    <string name="txtAddress2">3850 34th St S, St. Petersburg, FL 33711</string>
+    <string name="txtShop3">Starbucks</string>
+    <string name="txtAddress3">6575 Central Ave N, St. Petersburg, FL 33710</string>
+    <string name="description0">Addicted to the Bean logo</string>
+    <string name="description1">Southside Coffee Brew Bar image</string>
+    <string name="description2">Dunkin\' logo</string>
+    <string name="description3">Starbucks logo</string>
+</resources>
